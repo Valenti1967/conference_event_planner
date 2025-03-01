@@ -23,7 +23,7 @@ export const venueSlice = createSlice({
       quantity: 0,
     },
     {
-      img: "https://pixabay.com/images/download/chairs-2181916_640.jpg",
+      img: "https://cdn.pixabay.com/photo/2017/03/28/12/10/chairs-2181951_1280.jpg",
       name: "Large Meeting Room (Capacity:10)",
       cost: 900,
       quantity: 0,
